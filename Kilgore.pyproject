@@ -1,0 +1,3 @@
+{
+    "files": ["client.py","mainwindow.py","form.ui","startup.ui","startup.py", "README.md"]
+}
